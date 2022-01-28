@@ -3,7 +3,7 @@ Repositories 99
 Projects
 Packages 2
 Stars 343
-Beasty77/README.md
+README.md
 Hi there 👋
 I'm a software engineer at Very Good Ventures in kololo, kla 🌆
 
