@@ -1,10 +1,15 @@
-P- 👋 Hi, I’m @Beasty77
-- 👀 I’m interested in football and gaming
-- 🌱 I’m currently learning information technology
-- 💞️ I’m looking to collaborate on with the world 🌍
-- 📫 How to reach me ,find me at sherfiqkaii@gmail.com
+Overview
+Repositories 99
+Projects
+Packages 2
+Stars 343
+Beasty77/README.md
+Hi there 👋
+I'm a software engineer at Very Good Ventures in kololo, kla 🌆
 
-<!---
-Beasty77/Beasty77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on the bloc library
+☕ I’m learning how to make latte art
+🧑‍💻 I’m looking to collaborate on open source projects
+💬 Ask me about Flutter and Dart.
+😄 Pronouns: he/him/his
+⚡ Fun fact: I have a pet bunny named Coco 🐰
